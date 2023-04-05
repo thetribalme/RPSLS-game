@@ -1,6 +1,5 @@
 # Rock-Paper-Scissors-Lizard-Spock game
 
-------------------
 
 Learning coding on Python.
 
