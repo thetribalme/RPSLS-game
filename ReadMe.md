@@ -7,6 +7,8 @@ Applying knowledge:
 - if/elif/else 
 - random.choice
 - dictionary
+- range
+- try/except
 
 Learning PyCharm.
 
