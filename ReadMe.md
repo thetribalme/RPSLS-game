@@ -9,6 +9,7 @@ Applying knowledge:
 - dictionary
 - range
 - try/except
+- f-string
 
 Learning PyCharm.
 
